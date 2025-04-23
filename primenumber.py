@@ -15,3 +15,4 @@ if num > 1:
 else:
     # numbers less than 2 are not prime
     print(f"{num} is not a prime number.")
+    
